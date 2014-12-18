@@ -35,10 +35,9 @@
 			      	<span class="icon-bar"></span>
 			      	<span class="icon-bar"></span>
 			    </button>
-		    	<a class="navbar-brand" href="<?php echo base_url();?>">
+		    	<!-- <a class="navbar-brand" href="<?php echo base_url();?>">
 		    		<img class="img-responsive" src="<?php echo base_url();?>assets/img/logo.png" alt="Logo" width="75px" /> 
-		    	</a>
-		    	
+		    	</a> -->
 		  	</div>
 		  	
   		 	<nav id="top_nav" class="">
